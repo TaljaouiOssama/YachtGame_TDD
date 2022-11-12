@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.ossama.FullHouseScoringTest
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.396 s - in com.ossama.FullHouseScoringTest
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.446 s - in com.ossama.FullHouseScoringTest

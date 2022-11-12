@@ -1,4 +1,4 @@
-package com.ossama;
+package com.ossama.yachtGame;
 
 import java.util.Random;
 

@@ -1,4 +1,6 @@
-package com.ossama.yachtGame;
+package com.ossama.yachtGame.domain;
+
+import com.ossama.yachtGame.domain.DieRoller;
 
 import java.util.Iterator;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.ossama.yachtGame;
+package com.ossama.yachtGame.domain;
 
 import java.util.ArrayList;
 import java.util.List;

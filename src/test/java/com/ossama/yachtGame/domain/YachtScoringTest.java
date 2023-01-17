@@ -1,4 +1,4 @@
-package com.ossama.yachtGame;
+package com.ossama.yachtGame.domain;
 
 
 import org.junit.jupiter.api.Test;

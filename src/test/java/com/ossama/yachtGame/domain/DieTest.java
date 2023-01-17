@@ -1,6 +1,8 @@
-package com.ossama.yachtGame;
+package com.ossama.yachtGame.domain;
 
 
+import com.ossama.yachtGame.domain.DieRoller;
+import com.ossama.yachtGame.domain.RandomDieRoller;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.RepeatedTest;
 
